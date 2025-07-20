@@ -1,6 +1,6 @@
 [https://github.com/user-attachments/assets/fa8d9cdf-4302-4d98-9476-68be15e3a5dd](https://private-user-images.githubusercontent.com/221763104/468335716-fa8d9cdf-4302-4d98-9476-68be15e3a5dd.mp4)
 
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/inner-concerns/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
