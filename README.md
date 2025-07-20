@@ -1,9 +1,3 @@
-<div id="header" align="center">
-  <video width="640" height="360" controls>
-    <source src="https://pub-0a8e790cc12d4cd7a9b7c526531d29ba.r2.dev/wan-video/videos/68703ac15192e35bf698f9a0/video_1752185780384.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/inner-concerns/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
