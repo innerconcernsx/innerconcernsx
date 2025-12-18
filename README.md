@@ -63,16 +63,13 @@
 </div>
 
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=innerconcernsx&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on the future of tomorrow.
 - 🌱 I’m currently learning too many things.
 - 👯 I’m looking to collaborate on many things.
 - 🤔 I’m looking for help with DeSci adoption.
 - 📫 How to reach me: innerconcernsx@gmail.com
 
-### :fire: My Stats :
+### My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=innerconcernsx&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=innerconcernsx)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://komarev.com/ghpvc/?username=innerconcernsx&style=flat-square&color=blue" alt="" align="center"/>
