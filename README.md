@@ -69,7 +69,4 @@
 - 🤔 I’m looking for help with DeSci adoption.
 - 📫 How to reach me: innerconcernsx@gmail.com
 
-### My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=innerconcernsx&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=innerconcernsx)](https://github.com/anuraghazra/github-readme-stats)
